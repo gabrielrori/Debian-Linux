@@ -1,4 +1,4 @@
-# Instalar Python 3.8
+# Instalar Python 3.8 en un ambiente virtual
 
 
 ## Actualizar lista de paquetes e instalar prerequisitos
