@@ -20,7 +20,7 @@ mkdir /tmp/Python38
 cd /tmp/Python38
 ```
 ## Instalar el ambiente virtual
-```
+```sh
 sudo apt install virtualenv
 python3.8 -m pip install virtualenv
 ```
