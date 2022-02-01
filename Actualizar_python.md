@@ -2,8 +2,8 @@
 
 ```sh
 apt install python3-pip
-sudo apt install python-setuptools
-sudo apt install python-numpy
+sudo apt install python3-setuptools
+sudo apt install python3-numpy
 ```
 ```sh
 sudo apt install python3-matplotlib
