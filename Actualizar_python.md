@@ -1,7 +1,7 @@
 # Actualizar Python 3
 
 ```sh
-apt install python3-pip
+sudo apt install python3-pip
 sudo apt install python3-setuptools
 sudo apt install python3-numpy
 ```
