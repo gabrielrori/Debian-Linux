@@ -21,3 +21,6 @@ sudo apt install python3-scipy
 sudo apt install python3-pandas
 sudo apt install python3-sympy
 ```
+```sh
+sudo apt install python3-setuptools python3-numpy python3-setuptools python3-numpy python3-matplotlib python3-dev jupyter-notebook python3-scipy python3-pandas python3-sympy
+```
