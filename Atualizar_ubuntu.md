@@ -20,8 +20,12 @@ sudo nano /etc/gdm3/custom.conf
 Cambiar:
 ```sh
 WaylandEnable=true
-```sh
+```
 Por:
 ```sh
 WaylandEnable=false
+```
+Reiniciar GDM3:
+```sh
+sudo systemctl restart gdm3
 ```
