@@ -15,6 +15,3 @@ https://jax.readthedocs.io/en/latest/developer.html
 ## Instalar segundo:
 
 https://github.com/google/jax
-
-#Drivers de NVIDIA
-
