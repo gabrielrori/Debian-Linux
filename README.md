@@ -19,6 +19,4 @@ This repository provides helpful guides for setting up and configuring a Debian 
 5. **Install Python38 Virtualenv.md**
     - Similar to the previous guide, this one provides instructions for setting up Python 3.8 and virtual environments on Debian, offering flexibility in managing Python versions for various projects.
 
-## Purpose
-
-The **Debian Linux** repository streamlines the process of configuring a Debian system for development and other tasks, providing clear instructions for essential software installations, driver configurations, and system updates. It is a valuable resource for both new and experienced Debian users.  Contributions to expand this repository are welcomed!
+The **Debian Linux** repository gives the process of configuring a Debian system for development and other tasks, providing instructions for essential software installations, driver configurations, and system updates.  Contributions to expand this repository are welcomed!
