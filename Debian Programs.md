@@ -1,4 +1,4 @@
-# Programas para Ubuntu
+# Programas para Debian
 
 ## Anydesk
 ### Refrescar lista de repositorios e instalar actualizaciones
